@@ -1,0 +1,30 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: PUMA-10S_V2.1.PcbDoc   27.01.2015  13:49:18
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : PUMA-10S_V2.1-RoundHoles.TXT
+ASCII SlotHoles File : PUMA-10S_V2.1-SlotHoles.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.2mm (7.874mil)         Round          209              338.70 mm (13.33 Inch)
+T2        0.25mm (9.842mil)        Round          449              1022.21 mm (40.24 Inch)
+T3        0.65mm (25.591mil)       Round          2                2.70 mm (0.11 Inch)
+T4        0.9mm (35.433mil)        Round          12               47.81 mm (1.88 Inch)
+T5        1mm (39.37mil)           Round          6                21.46 mm (0.85 Inch)
+T6        1mm (39.37mil)           Slot           1                1.30 mm (0.05 Inch)
+T7        1.1mm (43.307mil)        Round          96               371.80 mm (14.64 Inch)
+T8        1.3mm (51.181mil)        Round          4                25.65 mm (1.01 Inch)
+T9        1.3mm (51.181mil)        Slot           1                2.10 mm (0.08 Inch)
+T10       1.5mm (59.055mil)        Round          4                24.25 mm (0.95 Inch)
+T11       1.6mm (62.992mil)        Round          5                88.30 mm (3.48 Inch)
+T12       1.8mm (70.866mil)        Round          3                45.47 mm (1.79 Inch)
+T13       2.2mm (86.614mil)        Round          2                8.50 mm (0.33 Inch)
+T14       3.2mm (125.984mil)       Round          2                11.43 mm (0.45 Inch)
+T15       3.3mm (129.921mil)       Round          4                109.73 mm (4.32 Inch)
+T16       1mm (39.37mil)           Round          2         NPTH   8.00 mm (0.31 Inch)
+---------------------------------------------------------------------------
+Totals                                            802              2129.42 mm (83.84 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:01
